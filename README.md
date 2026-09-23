@@ -1,7 +1,7 @@
 # Hands-on-LLMs-notes
 
 Just a structured collection of my notes & findings while exploring _Hands on Large Language Models_ book by Jay Alammar and Maarten Grootendorst.
-[Notion notes] https://app.notion.com/p/Hands-on-LLM-TEXT-BOOK-316839a879c180fd9852ee1251ab2667?source=copy_link
+[Notion notes](https://app.notion.com/p/Hands-on-LLM-TEXT-BOOK-316839a879c180fd9852ee1251ab2667?source=copy_link)
 
 ## 📖 Chapter Notes
 
